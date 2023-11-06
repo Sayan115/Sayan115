@@ -9,14 +9,14 @@
 </div>
 
 
-<!--- snake -->
+<!--- 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 
-<!--h2 without bottom border-->
+<!--
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Blank canvas, endless bugs</h2></summary>
@@ -25,6 +25,7 @@
 
 
 <!--Intro start-->
+<!---
 - 🔭 I’m currently working on **Python, MySQL, AI & ML**
 
 - 🌱 I’m currently learning **to create new and interesting projects.**
