@@ -10,7 +10,7 @@
 
 <!--- stats (end) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan115&count_private=true&show_icons=true&theme=onedark">  <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&count_private=true&layout=compact&theme=onedark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan115&count_private=true&show_icons=true&theme=transparent">  <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&count_private=true&layout=compact&theme=transparent">
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,html,java,androidstudio,linux,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,py,html,css,linux,mysql,java,androidstudio,idea,vscode&perline=14" />
   </a>
 </p>
 
