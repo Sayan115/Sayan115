@@ -8,26 +8,6 @@
   </ul>
 </div>
 
-
-
-<!--Intro start-->
-<!---
-- 🔭 I’m currently working on **Python, MySQL, AI & ML**
-
-- 🌱 I’m currently learning **to create new and interesting projects.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm starting to learn **AWS**
-
-- 💬 Ask me about **Java, C, C++, Python & HTML**
-
-- 📫 Feel free to reach me out **sayanadhikari115@gmail.com**
-
-- 🏠 Also reach out to me on LinkedIn (https://www.linkedin.com/in/sayan-adhikari-260447227/).
-<!--Intro end-->
-
-
-
-
 <!--- stats (end) -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan115&count_private=true&show_icons=true&theme=onedark">  <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&count_private=true&layout=compact&theme=onedark">
@@ -53,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,c,cpp,css,html,java,linux,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,html,java,androidstudio,linux,mysql,py,vscode&perline=14" />
   </a>
 </p>
 
