@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -8,19 +8,13 @@
   </ul>
 </div>
 
-<!--- stats (end) -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan115&count_private=true&show_icons=true&theme=transparent">  <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&count_private=true&layout=compact&theme=transparent">
-<!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sayan115&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<img align="center" alt="Sayan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sayan115&rank_icon=github&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true"> 
+
+<img align ="center" alt="Sayan's top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&hide_progress=true&theme=transparent&hide_border=true&hide=dart,cmake,jupyter-notebook">
 </div>
-<!--- trophy (start) -->
+</p>
 
-
-</p>        
 <!--- stats (end) -->
 
 
@@ -32,9 +26,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,py,html,css,linux,mysql,java,androidstudio,idea,vscode&perline=14" />
-  </a>
 </p>
 
 
