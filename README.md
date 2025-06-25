@@ -11,7 +11,7 @@
 <div align=center>
 <img align="center" alt="Sayan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sayan115&rank_icon=github&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true"> 
 
-<img align ="center" alt="Sayan's top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&hide_progress=true&theme=transparent&hide_border=true&hide=dart,cmake,jupyter-notebook">
+<img align ="center" alt="Sayan's top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan115&hide_progress=true&theme=transparent&hide_border=true&hide=dart,cmake,jupyter+notebook">
 </div>
 </p>
 
